@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/santannajj/.ipython/profile_default/startup'
+let g:netrw_dirhist_2='/Applications/MAMP/bin/php/php5.6.10'
+let g:netrw_dirhist_3='/Applications/MAMP/bin/php'
+let g:netrw_dirhist_4='/Users/santannajj/Desktop/cnsm_booterblacklist'
+let g:netrw_dirhist_5='/Users/santannajj/Desktop/jair_santanna/chapters/conclusions'
+let g:netrw_dirhist_6='/Users/santannajj/Desktop/jair_santanna/chapters'
+let g:netrw_dirhist_7='/Users/santannajj/Desktop/jair_santanna/chapters/conclusions'
+let g:netrw_dirhist_8='/Users/santannajj/.vim'
